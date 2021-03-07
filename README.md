@@ -1,3 +1,3 @@
 # React Fundamentals
 
-Teaching myself the fundamentals of React with a simple project.
+Learning React with a project.
